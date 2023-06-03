@@ -5,7 +5,7 @@
 }
 
 
-span{
+span, a{
     color: var(--color-orange);
 }
 
@@ -22,10 +22,20 @@ body{
     font-family: var(--Font-open);
 }
 
+#hero{
+    width:59.2rem;
+    margin: 0 auto 7.2rem;
+}
+
+#hero img{
+    margin-bottom: 7.2rem;
+}
+
 #hero h1{
     font-size: 49px;
     font-weight: normal;
     font-family: var(--Font-inter);
+    margin-bottom: 3.2rem;
 }
 
 #hero h1 span{
