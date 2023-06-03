@@ -4,6 +4,9 @@
     box-sizing: border-box;
 }
 
+a{
+    text-decoration: none;
+}
 
 span{
     color: var(--color-orange);
@@ -20,6 +23,11 @@ body{
     font-size: 1.6rem;
     text-align: center;
     font-family: var(--Font-open);
+}
+
+#hero{
+    width: 59.2rem;
+    margin: 0 auto;
 }
 
 #hero h1{
