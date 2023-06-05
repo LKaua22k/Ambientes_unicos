@@ -16,8 +16,8 @@ span, a{
     --color-orange: #FF9900;
     --color-text:#7D7987;
     --color-line:#ECEFF2;
-    --Font-inter:'Inter', sans-serif;;
-    --Font-open:'Open Sans', sans-serif;;
+    --Font-inter:'Inter', sans-serif;
+    --Font-open:'Open Sans', sans-serif;
     font-size: 62.5%;
 }
 
