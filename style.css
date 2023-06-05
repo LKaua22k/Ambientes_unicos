@@ -27,8 +27,6 @@ body{
     font-family: var(--Font-open);
 }
 
-/* Hero container */
-
 #hero{
     max-width:59.2rem;
     margin: 0 auto 7.2rem;
@@ -54,8 +52,6 @@ body{
 #hero h1 span{
     font-weight: bold;
 }
-
-/* Footer */
 
 footer{
     margin-bottom: 3.3rem;
