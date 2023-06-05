@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img alt="Moveis Customizados" src=".github/preview.jpg" width="100%">
+  <img alt="Moveis Customizados" src="./.github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
