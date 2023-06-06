@@ -18,6 +18,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Figma
 
+Bibliotecas
+
+- [Google Fonts](https://fonts.google.com/)
+
 ## 💻 Projeto
 
  È uma aplicação estatica com o objetivo de mostrar as informações de novos ambientes para o usuario
